@@ -1,0 +1,6 @@
+{
+  "name": "SchoolVerse - Gamified Social Learning Platform",
+  "description": "A text-based first-person school-life RPG, educational platform, and student social network with academic missions, XP progression, school competitions, and real-time student community.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
